@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **WoW Emulation, PHP, Eluna**
 
-- 📫 How to reach me **dhiyocrisn@gmail.comm**
+- 📫 How to reach me **dhiyocrisn@gmail.com**
 
 - 📄 Know about my experiences [https://crisnawidhi.garudadev.com/](https://crisnawidhi.garudadev.com/)
 
