@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhiyo Ketut Crisnawidhi</h1>
 <h3 align="center">A lowoly programmer fromm Indonesia, i'am a certificated in Junior Web Developer in Indonesia.</h3>
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacatinelord&show_icons=true&locale=en&layout=compact" alt="jacatinelord" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacatinelord&show_icons=true&locale=en" alt="jacatinelord" /></p>
-</div>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacatinelord&show_icons=true&locale=en&layout=compact" alt="jacatinelord" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacatinelord&show_icons=true&locale=en" alt="jacatinelord" /></p>
+
 - 🔭 I’m currently working on [Sinmeowgra's Project](https://sinmeowgra.com/)
 
 - 🌱 I’m currently learning **Laravel**
