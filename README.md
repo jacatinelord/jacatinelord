@@ -2,10 +2,6 @@
 <h3 align="center">A lowoly programmer fromm Indonesia, i'am a certificated in Junior Web Developer in Indonesia.</h3>
 
 
-<h3 align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacatinelord&show_icons=true&locale=en&layout=compact" alt="jacatinelord" /></h3>
-
-<h3 align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacatinelord&show_icons=true&locale=en" alt="jacatinelord" /></h3>
-
 - 🔭 I’m currently working on [Sinmeowgra's Project](https://sinmeowgra.com/)
 
 - 🌱 I’m currently learning **Laravel**
@@ -19,6 +15,10 @@
 - 📄 Know about my experiences [https://crisnawidhi.garudadev.com/](https://crisnawidhi.garudadev.com/)
 
 - ⚡ Fun fact **I think i am crazy**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacatinelord&show_icons=true&locale=en&layout=compact" alt="jacatinelord" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacatinelord&show_icons=true&locale=en" alt="jacatinelord" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
