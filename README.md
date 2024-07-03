@@ -2,9 +2,9 @@
 <h3 align="center">A lowoly programmer fromm Indonesia, i'am a certificated in Junior Web Developer in Indonesia.</h3>
 
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacatinelord&show_icons=true&locale=en&layout=compact" alt="jacatinelord" /></p>
+<h3 align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacatinelord&show_icons=true&locale=en&layout=compact" alt="jacatinelord" /></h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacatinelord&show_icons=true&locale=en" alt="jacatinelord" /></p>
+<h3 align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacatinelord&show_icons=true&locale=en" alt="jacatinelord" /></h3>
 
 - 🔭 I’m currently working on [Sinmeowgra's Project](https://sinmeowgra.com/)
 
