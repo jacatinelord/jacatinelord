@@ -70,13 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jacatinelord/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jacatinelord" alt="Layout with last medium posts"  />
+  <img src="https://komarev.com/ghpvc/?username=jacatinelord&label=Profile%20views&color=0e75b6&style=flat" alt="jacatinelord"   />
 </div>
 
 ###
