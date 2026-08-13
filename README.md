@@ -8,9 +8,12 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Sinmeowgra-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinmeowgra.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-Jacatinelord-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/jacatinelord)
-[![Discord](https://img.shields.io/badge/Discord-Sinmeowgra-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/sindrawow/)
+[![GarudaDev](https://img.shields.io/badge/GarudaDev-Development_Hub-E34F26?style=for-the-badge&logo=googlechrome&logoColor=white)](https://garudadev.com/)
+[![Eternia](https://img.shields.io/badge/System_Eternia-Aether_Service-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white)](https://eternia.garudadev.com/)
+[![Sinmeowgra](https://img.shields.io/badge/Sinmeowgra-WoW_Project-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinmeowgra.com/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Jacatinelord-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/jacatinelord)
+[![Discord](https://img.shields.io/badge/Discord-Sinmeowgra-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/sindrawow/)
 
 <img src="https://komarev.com/ghpvc/?username=jacatinelord&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
@@ -48,6 +51,82 @@ I usually find myself somewhere between:
 - 🧪 **Random experiments that somehow become real projects**
 
 > **I like understanding how everything connects — from the frontend a user sees to the server, database, proxy, and services running behind it.**
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### `BUILD • HOST • CONNECT • MAINTAIN`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦅 GarudaDev
+
+**Web, game-server, and custom software development hub.**
+
+GarudaDev is where I bring together the different sides of my development work — from websites and backend systems to game-server development, infrastructure, integrations, and long-term maintenance.
+
+**What it represents:**
+
+`Web Development` · `Game Servers` · `Backend` · `Infrastructure` · `Custom Systems` · `Support`
+
+🌐 **[garudadev.com](https://garudadev.com/)**
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ System Eternia
+
+**Aether for locally hosted services.**
+
+System Eternia is a networking/tunneling platform built to make a locally hosted **game server, website, or application** reachable from the internet — including environments where a normal public IP is unavailable.
+
+It combines my interests in networking, agents, tunnels, service routing, infrastructure, and self-hosting.
+
+`TCP/UDP` · `Tunneling` · `Networking` · `Agents` · `Self-Hosting`
+
+🌐 **[eternia.garudadev.com](https://eternia.garudadev.com/)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 Sinmeowgra
+
+**Long-running World of Warcraft private-server project.**
+
+A project where I work across the entire stack: game core, scripting, databases, website, networking, deployment, maintenance, administration, and player support.
+
+`C++` · `Lua` · `Laravel` · `MySQL` · `Nginx` · `WoW`
+
+🌐 **[sinmeowgra.com](https://sinmeowgra.com/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Private & Client Projects
+
+Not everything I build is available in a public repository.
+
+I've also worked on **private, commissioned, internal, and client projects** involving web systems, game servers, hosting infrastructure, integrations, databases, deployment, maintenance, and troubleshooting.
+
+Some repositories remain private because they contain client code, internal systems, credentials/configuration structures, licensed assets, or project-specific implementations.
+
+`Private Repositories` · `Commissioned Work` · `Internal Tools` · `Client Systems`
+
+</td>
+</tr>
+</table>
+
+> GitHub only shows part of what I work on. A significant portion of my development history lives in private repositories and deployed systems.
 
 ---
 
@@ -349,12 +428,13 @@ Besides Sinmeowgra, I like experimenting with projects involving:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/jacatinelord/jacatinelord/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacatinelord/jacatinelord/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacatinelord/jacatinelord/output/github-contribution-grid-snake.svg" />
+  <img alt="Jacatinelord contribution snake" src="https://raw.githubusercontent.com/jacatinelord/jacatinelord/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
-
-> The contribution snake requires a GitHub Action in the profile repository.  
-> If it is not configured yet, this image simply will not appear.
 
 ---
 
@@ -362,10 +442,11 @@ Besides Sinmeowgra, I like experimenting with projects involving:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/SINMEOWGRA-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinmeowgra.com/)
+[![GarudaDev](https://img.shields.io/badge/GARUDADEV-Development_Hub-E34F26?style=for-the-badge&logo=googlechrome&logoColor=white)](https://garudadev.com/)
+[![Eternia](https://img.shields.io/badge/ETERNIA-Aether_Service-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white)](https://eternia.garudadev.com/)
+[![Sinmeowgra](https://img.shields.io/badge/SINMEOWGRA-WoW_Server-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinmeowgra.com/)
 
 [![Discord](https://img.shields.io/badge/DISCORD-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/sindrawow/)
-
 [![YouTube](https://img.shields.io/badge/YOUTUBE-Jacatinelord-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/jacatinelord)
 
 </div>
