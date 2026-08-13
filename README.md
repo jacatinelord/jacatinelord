@@ -1,87 +1,388 @@
-<h2 align="center">-= Jacatinelord =-</h2>
+<div align="center">
 
-###
+# ⚔️ JACATINELORD ⚔️
 
-<p align="left">Greetings, i am Jacatinelord or some people know my alias name as Yuuya. My alias was taken within the name of Yuuya Marino in the Crush Gear Turbo series.<br><br>I'm a Newbie - Junior Web Developer from Indonesia.<br><br>Currently, my life is a mess. Thank you for visiting my github profile.</p>
+### aka **Yuuya**
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Game+Server+Developer;Server+Administrator;WoW+Private+Server+Developer;I+build%2C+maintain%2C+debug+and+keep+things+alive." alt="Typing SVG" />
 
-<h2 align="center">-= Project: Sinmeowgra =-</h2>
+<br>
 
-###
+[![Website](https://img.shields.io/badge/Sinmeowgra-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinmeowgra.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-Jacatinelord-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/jacatinelord)
+[![Discord](https://img.shields.io/badge/Discord-Sinmeowgra-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/sindrawow/)
 
-<p align="left">Currently, i developed Sinmeowgra WoW Solo as in the programming section, either back-end or front-end.<br><br>Community are also supporting the development of that project :)<br><br>Learn More: https://sinmeowgra.com/</p>
+<img src="https://komarev.com/ghpvc/?username=jacatinelord&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-###
-
-<h4 align="left">- Sinmeowgra Game Server Programming Language & Apps</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"  />
 </div>
 
-###
+---
 
-<h4 align="left">- Sinmeowgra Web Programming Language & Apps</h4>
+## 👾 About Me
 
-###
+```text
+Username   : Jacatinelord
+Alias      : Yuuya
+Location   : Indonesia
+Main Role  : All-Round Developer
+Specialty  : Web • Game Servers • Infrastructure • Troubleshooting
+Main Quest : Build things, keep them running, improve them.
+```
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-</div>
+Greetings! I'm **Jacatinelord**, also known as **Yuuya**.
 
-###
+The alias **Yuuya** was inspired by **Yuuya Marino** from *Crush Gear Turbo*.
 
-<h2 align="center">-= Misc =-</h2>
+I'm a developer from Indonesia who enjoys working across an entire system rather than staying inside only one layer of it.
 
-###
+I usually find myself somewhere between:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jacatinelord&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jacatinelord&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jacatinelord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🌐 **Full-stack web development**
+- 🎮 **Game server development**
+- ⚙️ **Backend systems**
+- 🗄️ **Database management**
+- 🖥️ **Server administration**
+- 🌍 **Networking & reverse proxies**
+- 🔧 **Deployment, maintenance & troubleshooting**
+- 💬 **Technical / community support**
+- 🧪 **Random experiments that somehow become real projects**
 
-###
+> **I like understanding how everything connects — from the frontend a user sees to the server, database, proxy, and services running behind it.**
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jacatinelord&label=Profile%20views&color=0e75b6&style=flat" alt="jacatinelord"   />
+
+# 🐾 PROJECT // SINMEOWGRA
+
+### World of Warcraft Private Server Project
+
+[![Sinmeowgra](https://img.shields.io/badge/PROJECT-SINMEOWGRA-7C3AED?style=for-the-badge)](https://sinmeowgra.com/)
+![Status](https://img.shields.io/badge/ROLE-ALL--ROUNDER-238636?style=for-the-badge)
+![Stack](https://img.shields.io/badge/STACK-WEB+%2B+GAME+%2B+INFRA-1F6FEB?style=for-the-badge)
+
 </div>
 
-###
+**Sinmeowgra** is my main long-term personal project.
+
+I handle a mixture of programming, web development, server operations, infrastructure, maintenance, administration, and technical support.
+
+```text
+                         ┌───────────────────────┐
+                         │      SINMEOWGRA       │
+                         └───────────┬───────────┘
+                                     │
+              ┌──────────────────────┼──────────────────────┐
+              │                      │                      │
+              ▼                      ▼                      ▼
+       ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+       │ GAME SERVER  │       │     WEB      │       │    INFRA     │
+       ├──────────────┤       ├──────────────┤       ├──────────────┤
+       │ C++          │       │ Laravel      │       │ Nginx        │
+       │ Lua          │       │ PHP          │       │ HAProxy      │
+       │ CMake        │       │ Bootstrap    │       │ Cloudflare   │
+       │ MySQL        │       │ JavaScript   │       │ Windows/Linux│
+       └──────┬───────┘       └──────┬───────┘       └──────┬───────┘
+              │                      │                      │
+              └──────────────────────┼──────────────────────┘
+                                     ▼
+                         ┌───────────────────────┐
+                         │ PLAYERS / COMMUNITY   │
+                         └───────────────────────┘
+```
+
+### ⚔️ What I Handle
+
+- WoW game server development and configuration
+- C++ core modifications
+- Lua scripting
+- Core compilation and debugging
+- CMake build environments
+- MySQL database management
+- Realm maintenance
+- Progression system planning
+- Player-facing systems
+- Website backend and frontend
+- Account and authentication systems
+- Reverse proxy configuration
+- Server deployment
+- Networking and tunneling
+- Performance troubleshooting
+- Technical and community support
+- General project administration
+
+### 🌍 WoW Server Ecosystems
+
+![AzerothCore](https://img.shields.io/badge/AzerothCore-3.3.5a-00599C?style=flat-square)
+![TrinityCore](https://img.shields.io/badge/TrinityCore-4.3.4-8B5CF6?style=flat-square)
+![SkyFire](https://img.shields.io/badge/SkyFire-5.4.8-EF4444?style=flat-square)
+
+---
+
+# 🧰 Tech Arsenal
+
+## 🎮 Game Server / Core Development
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+
+</div>
+
+## 🌐 Web Development
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+</div>
+
+## 🖥️ Infrastructure / Server
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+## 🛠️ Tools
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+</div>
+
+---
+
+# 🌐 Web Systems I Work With
+
+My web-development work is mostly centered around **PHP / Laravel applications** and systems that need to interact with databases, users, business workflows, or game services.
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                     WEB APPLICATION                     │
+├─────────────────────────────────────────────────────────┤
+│ Authentication       │ Role / Permission Management    │
+│ Admin Dashboards     │ Product Management              │
+│ Purchasing           │ Supplier Management             │
+│ Product Catalogs     │ Reporting / Analytics           │
+│ Database Systems     │ Game ↔ Website Integration      │
+│ API Integration      │ Account Management              │
+└─────────────────────────────────────────────────────────┘
+```
+
+Some systems I've worked on include:
+
+- Laravel authentication systems
+- Role / permission management
+- POS and cashier systems
+- Product and inventory-related workflows
+- Purchasing modules
+- Supplier and category management
+- Product catalog interfaces
+- Administrative dashboards
+- Analytics and reporting interfaces
+- Game server ↔ website integration
+- Database-backed applications
+
+---
+
+# 🖥️ Infrastructure & Self-Hosting
+
+A lot of my work happens where users never see it.
+
+I enjoy figuring out how services communicate, how they're exposed to the internet, how they fail, and how to keep them alive.
+
+### Areas I work with
+
+```yaml
+servers:
+  - Windows Server
+  - Linux
+  - VPS environments
+
+networking:
+  - TCP / UDP
+  - Reverse proxies
+  - Tunneling
+  - Port forwarding
+
+services:
+  - Nginx
+  - HAProxy
+  - Cloudflare
+  - MySQL
+
+operations:
+  - Deployment
+  - Monitoring
+  - Troubleshooting
+  - Performance tuning
+  - Service recovery
+```
+
+---
+
+# 🧪 Side Quests
+
+Besides Sinmeowgra, I like experimenting with projects involving:
+
+### 🧾 POS & Business Applications
+
+- Product management
+- Product variants
+- Purchasing workflows
+- Supplier data
+- Catalog systems
+- Image handling
+- Dashboard design
+- Role-based access
+- Reporting and analytics
+
+### 🌍 Networking / Hosting
+
+- Reverse proxy setups
+- TCP/UDP forwarding
+- VPS deployments
+- Self-hosting
+- Tunnel agents
+- Remote service exposure
+- Playit-style tunneling concepts
+
+### 🎮 Game Infrastructure
+
+```text
+        PLAYER
+          │
+          ▼
+    ┌───────────┐
+    │ INTERNET  │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │  PROXY /  │
+    │  TUNNEL   │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │   AUTH    │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │   REALM   │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │ DATABASE  │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │  WEBSITE  │
+    └───────────┘
+```
+
+---
+
+# 🎯 Current Focus
+
+```diff
++ Improving Sinmeowgra
++ WoW private server development
++ Full-stack Laravel development
++ Server architecture
++ Infrastructure management
++ Networking and tunneling
++ Automation
++ Better deployment workflows
++ Building maintainable systems
+
+! Learning by building real things
+! Breaking them
+! Debugging them
+! Making them work again
+```
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://dsc.gg/sindrawow/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://youtube.com/c/jacatinelord" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=jacatinelord&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jacatinelord&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=jacatinelord&theme=github-dark-blue&hide_border=true" />
+
 </div>
 
-###
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/jacatinelord/jacatinelord/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> The contribution snake requires a GitHub Action in the profile repository.  
+> If it is not configured yet, this image simply will not appear.
+
+---
+
+# 🤝 Find Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/SINMEOWGRA-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinmeowgra.com/)
+
+[![Discord](https://img.shields.io/badge/DISCORD-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/sindrawow/)
+
+[![YouTube](https://img.shields.io/badge/YOUTUBE-Jacatinelord-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/jacatinelord)
+
+</div>
+
+---
+
+<div align="center">
+
+### `</ Keep building. Keep learning. Keep the server alive. >`
+
+<sub>
+Sometimes developer. Sometimes sysadmin. Sometimes support.<br>
+Usually all of them at the same time.
+</sub>
+
+<br><br>
+
+**Thanks for visiting my GitHub profile. 🐾**
+
+</div>
